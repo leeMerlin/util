@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-study/Design Patten.iml" filepath="$PROJECT_DIR$/socket-study/Design Patten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/Design patten.iml" filepath="$PROJECT_DIR$/util/Design patten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-study/socket-study.iml" filepath="$PROJECT_DIR$/socket-study/socket-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>
